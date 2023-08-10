@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tingwei Zhu (朱庭纬)"
   avatar           : "avator.jpg"
-  bio              : "Ph.D candidate at Nanjing University."
+  bio              : "Ph.D. candidate at NJU."
   location         : "Nanjing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0000-0002-6962-6330"
+  orcid            : "https://orcid.org/0000-0002-6962-6330"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -175,15 +175,19 @@ kramdown:
 
 # Collections
 collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  awards:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -206,6 +210,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -215,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _awards
+  # _portfolio
   - scope:
       path: ""
-      type: awards
+      type: portfolio
     values:
       layout: single
       author_profile: true
