@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Personal Homepage"
+title                    : "Tingwei Zhu"
 title_separator          : "-"
 name                     : &name "Tingwei Zhu"
-description              : &description "Personal homepage of Tingwei Zhu."
+description              : &description "Tingwei Zhu's personal homepage"
 url                      : https://ztw33.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ztw33/ztw33.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tingwei Zhu"
+  name             : "Tingwei Zhu (朱庭纬)"
   avatar           : "avator.jpg"
-  bio              : "PhD candidate in the Department of Computer Science and Technology at Nanjing University."
+  bio              : "Ph.D candidate at Nanjing University."
   location         : "Nanjing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -175,13 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  awards:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -209,15 +206,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,10 +215,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _awards
   - scope:
       path: ""
-      type: portfolio
+      type: awards
     values:
       layout: single
       author_profile: true
