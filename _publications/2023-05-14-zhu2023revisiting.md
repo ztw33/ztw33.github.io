@@ -1,6 +1,6 @@
 ---
 title: "Revisiting Information Retrieval and Deep Learning Approaches for Code Summarization"
-authors: "Tingwei Zhu, Zhong Li, Minxue Pan, Chaoxuan Shi, Tian Zhang, Yu Pei, Xuandong Li"
+authors: "<strong>Tingwei Zhu</strong>, Zhong Li, Minxue Pan, Chaoxuan Shi, Tian Zhang, Yu Pei, Xuandong Li"
 collection: publications
 permalink: /publication/2023-05-14-zhu2023revisiting
 date: 2023-05-14
