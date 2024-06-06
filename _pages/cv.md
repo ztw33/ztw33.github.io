@@ -21,7 +21,7 @@ redirect_from:
 
 
 ## Work experience
-- 2023.8-now: Reseach Intern
+- 2022.8-2024.6: Reseach Intern
   - Software Engineering Application Technology Lab, Huawei
 
 - 2019.7-2019.12: Backend Development Intern

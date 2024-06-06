@@ -6,8 +6,8 @@ main:
   - title: "Experience"
     url: /experience/  
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Blog Posts"
   #   url: /year-archive/

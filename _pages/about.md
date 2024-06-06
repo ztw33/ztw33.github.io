@@ -12,9 +12,11 @@ I'm a Ph.D. candidate in the Software Engineering Group (SEG) of the Department 
 Before that, I obtained my bachelor degree from Nanjing University in the Department of Computer Science and Technology.
 
 **Research Interests**
-* AI and Software Engineering
+* Code Intelligence (including Code Summarization, Code Completion, Program Repair, etc.)
 * Empirical Software Engineering
 
-<!-- Latest News
-------
-* Pad -->
+**Latest News**
+* Two papers apcepted by ICSME 2024.
+* One paper accepted by ICPC 2024.
+* One paper accepted by TOSEM.
+* Two papers accepted by ASE 2023.
