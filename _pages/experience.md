@@ -14,6 +14,7 @@ redirect_from:
 
 
 ## Awards
+- 2024, National Scholarship for doctoral students
 - 2024, Best Student Paper Award, for ICSME 2024
 - 2023, ACM SIGSOFT Distinguished Paper Award, for ASE 2023
 - 2020, Outstanding Graduates, Nanjing University
@@ -26,7 +27,10 @@ redirect_from:
 - Program Committee
   - the 47th International Conference on Software Engineering (ICSE 2025), Artifact Evaluation Track
 - Reviewer
-  - the 40th International Conference on Software Maintenance and Evolution (ICSME 2024), Industry Track
+  - ICECCS 2025, Research Track
+  - ICSE 2025, New Ideas and Emerging Results (NIER) Track
+  - SANER 2025, Research Track
+  - ICSME 2024, Industry Track
   - Journal of Software (in Chinese)
 - Teaching Assistant
   - Data Structure (Spring 2022), Nanjing University

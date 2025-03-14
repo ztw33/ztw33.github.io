@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. candidate in Software Engineering Group (SEG) of School of Computer Science at Nanjing University (NJU), supervised by [Prof. Xuandong Li](https://cs.nju.edu.cn/lixuandong/index.htm) and [Prof. Tian Zhang](https://cs.nju.edu.cn/zhangtian/index.htm). 
 Before that, I obtained my bachelor degree from Nanjing University in the Department of Computer Science and Technology.
-Now I'm conducting an one-year visiting program in Cyber Security Lab (CSL), Nanyang Technological University (NTU) sponsored by China Scholarship Council (CSC), under the guidance of [Associate Prof. Yi Li](https://liyiweb.com/) and [Dr. Shangqing Liu](https://shangqing-liu.github.io/).
+Now I'm conducting an one-year visiting program in Cyber Security Lab (CSL), Nanyang Technological University (NTU) sponsored by China Scholarship Council (CSC), under the guidance of [Associate Prof. Yi Li](https://liyiweb.com/) and [Associate Prof. Shangqing Liu](https://shangqing-liu.github.io/).
 
 **Research Interests**
 * Code Intelligence
