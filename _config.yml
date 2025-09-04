@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tingwei Zhu (朱庭纬)"
   avatar           : "avator.jpg"
-  bio              : "Ph.D. candidate at NJU."
-  location         : "Nanjing, China"
+  bio              : "Research Fellow at ZJU."
+  location         : "Zhejiang, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_lFHL9sAAAAJ&hl=zh-CN"
-  email            : "tingweizhu33@smail.nju.edu.cn"
+  email            : "tingwei.zhu@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
