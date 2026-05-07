@@ -15,25 +15,18 @@ redirect_from:
 - B.S. in Department of Computer Science and Technology, Nanjing University, 2016-2020
 
 
-## Awards
-- 2025, Outstanding Graduates, Nanjing University
-- 2024, National Scholarship for doctoral students
-- 2024, Best Student Paper Award, for ICSME 2024
-- 2023, ACM SIGSOFT Distinguished Paper Award, for ASE 2023
-- 2020, Outstanding Graduates, Nanjing University
-- 2019, First-class People's Scholarship, Nanjing University
-- 2018, Second-class People's Scholarship, Nanjing University
-- 2017, Excellent Youth League Member, Nanjing University
-
-
 ## Services
 - Program Committee
+  - the 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026), Research Track
+  - the 48th International Conference on Software Engineering (ICSE 2026), Artifact Evaluation Track
   - 2025 CCF中国软件大会 (ChinaSoft 2025), 软件研究成果原型系统竞赛Track
   - the 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), Research Track
   - the 47th International Conference on Software Engineering (ICSE 2025), Artifact Evaluation Track
 - Invited Reviewer
-  - Science of Computer Programming (SCP)
   - TOSEM
+  - Empirical Software Engineering (EMSE)
+  - Journal of Software: Evolution and Process (JSEP)
+  - Science of Computer Programming (SCP)
 - Sub-reviewer
   - TOSEM
   - ICSE 2026, Research Track and Software Engineering in Practice (SEIP) Track
@@ -47,6 +40,17 @@ redirect_from:
   - Data Structure (Spring 2022), Nanjing University
   - Software Engineering (Fall 2021), Nanjing University
   
+
+## Awards
+- 2025, Outstanding Graduates, Nanjing University
+- 2024, National Scholarship for doctoral students
+- 2024, Best Student Paper Award, for ICSME 2024
+- 2023, ACM SIGSOFT Distinguished Paper Award, for ASE 2023
+- 2020, Outstanding Graduates, Nanjing University
+- 2019, First-class People's Scholarship, Nanjing University
+- 2018, Second-class People's Scholarship, Nanjing University
+- 2017, Excellent Youth League Member, Nanjing University
+
 
 ## Internship
 - 2022.8-2024.6: Research Intern

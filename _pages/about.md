@@ -25,16 +25,6 @@ My research interests include code intelligence, mining software repositories, e
   * Techniques that integrate external or domain-specific knowledge into models to improve their reasoning and accuracy, with a particular focus on applications in software engineering tasks.
 
 
-## News
-* (2025.10) One paper accepted by TOSEM.
-* (2024.10) Got Best Student Paper Award for ICSME 2024.
-* (2024.05) Two papers accepted by ICSME 2024.
-* (2024.01) One paper accepted by ICPC 2024.
-* (2023.10) One paper accepted by TOSEM.
-* (2023.09) Got ACM SIGSOFT Distinguished Paper Award for ASE 2023.
-* (2023.07) Two papers accepted by ASE 2023.
-
-
 ## Hobbies
 * 🎵🎤
 * 🏋️🥋
